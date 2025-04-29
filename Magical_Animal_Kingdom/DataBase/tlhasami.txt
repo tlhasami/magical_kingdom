@@ -1,0 +1,10 @@
+tlhasami
+0 0 0 0 0 0 1000
+25 15 120 1
+Griffin
+20 10 110 1
+Phoenix
+30 25 150 1
+Dragon
+22 18 130 1
+Unicorn

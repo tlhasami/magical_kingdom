@@ -1,0 +1,5 @@
+
+
+ clear;
+ g++ main.cpp button.cpp object.cpp pets.cpp HealthBar.cpp player.cpp -o game -lsfml-graphics -lsfml-window -lsfml-system;
+ ./game
